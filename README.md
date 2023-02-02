@@ -1,4 +1,4 @@
-#Manage landing page using Tailwind CSS, HTML and JavaSCript
+#Landing Page using Tailwind CSS, HTML and JavaSCript
 
 # Manage Landing Page
 
