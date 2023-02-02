@@ -1,10 +1,10 @@
-# tailwindcss-landing-page
-Manage landing page using Tailwind CSS, HTML and JavaSCript
+#Manage landing page using Tailwind CSS, HTML and JavaSCript
 
 # Manage Landing Page
 
 This is the repositories for Manage Landing Page using Tailwind CSS, HTML and JavaScript.
 
+(![tailwindcss](https://user-images.githubusercontent.com/120882727/216217837-7c5a8b48-4a64-4282-beab-65b11597d301.png)
 
 
 ## Acknowledgements
